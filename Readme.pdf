@@ -6,32 +6,32 @@ NIM         : 102042400095
 KELAS       : SI-KJ-24-002
 
 
-1. Judul Game               = Escape from Earth: The Search for a New Home
+1. Judul Game               =  Escape from Earth: The Search for a New Home
 
-2. Alur Cerita              = Bumi telah dikuasai oleh alien yang tidak bisa dikalahkan oleh tim/tentara dunia sekalipun.
-                              Kamu, seorang manusia terakhir yang selamat, harus mencari planet baru untuk dihuni. Dengan
-                              sebuah pesawat luar angkasa, kamu berpetualang melewati berbagai rintangan di luar angkasa,
-                              seperti hujan asteroid, lubang hitam,dan serangan alien. Keputusanmu
-                              menentukan keberhasilan perjalanan ini!
+2. Alur Cerita              =  Bumi telah dikuasai oleh alien yang tidak bisa dikalahkan oleh tim/tentara dunia sekalipun.
+                               Kamu, seorang manusia terakhir yang selamat, harus mencari planet baru untuk dihuni. Dengan
+                               sebuah pesawat luar angkasa, kamu berpetualang melewati berbagai rintangan di luar angkasa,
+                               seperti hujan asteroid, lubang hitam,dan serangan alien. Keputusanmu
+                               menentukan keberhasilan perjalanan ini!
 
 3. Alur Permainan
-   (Flowchart Singkat)      = 1. Pemain memasukkan nama, umur, dan gender.
-                              2. Mulai di Bumi yang hancur, memilih bagaimana melarikan diri.
-                              3. Menghadapi serangan alien pertama.
-                              4. Menghadapi hujan asteroid.
-                              5. Terjebak dalam gravitasi lubang hitam.
-                              6. Menemukan kapal alien, memutuskan interaksi.
-                              7. Menghadapi pertarungan terakhir.
-                              8. Menemukan planet baru dan mendarat atau gagal dan mengalami game over.
+   (Flowchart Singkat)      =  1. Pemain memasukkan nama, umur, dan gender.
+                               2. Mulai di Bumi yang hancur, memilih bagaimana melarikan diri.
+                               3. Menghadapi serangan alien pertama.
+                               4. Menghadapi hujan asteroid.
+                               5. Terjebak dalam gravitasi lubang hitam.
+                               6. Menemukan kapal alien, memutuskan interaksi.
+                               7. Menghadapi pertarungan terakhir.
+                               8. Menemukan planet baru dan mendarat atau gagal dan mengalami game over.
 
-4. Cara Bermain             = 1. Jalankan program Main.java.
-                              2. Masukkan nama, umur, dan gender.
-                              3. Setiap scene, baca narasi dan pilih aksi dengan mengetik A, B, atau C.
-                              4. Jika kesehatan mencapai 0, permainan berakhir (Game Over).
-                              5. Jika berhasil mencapai planet baru, permainan selesai dengan kemenangan.
-                              6. Bisa mengetik INFO kapan saja untuk melihat status karakter.
+4. Cara Bermain             =  1. Jalankan program Main.java.
+                               2. Masukkan nama, umur, dan gender.
+                               3. Setiap scene, baca narasi dan pilih aksi dengan mengetik A, B, atau C.
+                               4. Jika kesehatan mencapai 0, permainan berakhir (Game Over).
+                               5. Jika berhasil mencapai planet baru, permainan selesai dengan kemenangan.
+                               6. Bisa mengetik INFO kapan saja untuk melihat status karakter.
 
-5. Kesimpulan               = Game ini menggabungkan elemen petualangan berbasis teks dengan sistem
-                              kesehatan, XP, dan pilihan bercabang. Setiap pilihan yang dibuat pemain memiliki dampak
-                              langsung terhadap kesehatan dan keberhasilan dalam menemukan planet baru. Pemain diharapkan
-                              berpikir strategis dalam memilih keputusan terbaik untuk bertahan hidup di luar angkasa.
+5. Kesimpulan               =  Game ini menggabungkan elemen petualangan berbasis teks dengan sistem
+                               kesehatan, XP, dan pilihan bercabang. Setiap pilihan yang dibuat pemain memiliki dampak
+                               langsung terhadap kesehatan dan keberhasilan dalam menemukan planet baru. Pemain diharapkan
+                               berpikir strategis dalam memilih keputusan terbaik untuk bertahan hidup di luar angkasa.
