@@ -3,7 +3,7 @@
 
 NAMA        : Muhammad Umar Fathan Alfaruq
 NIM         : 102042400095
-KELAS       : SI-KJ-24-002
+KELAS       : S1SI-KJ-24-002
 
 
 1. Judul Game               =  Escape from Earth: The Search for a New Home
@@ -24,14 +24,55 @@ KELAS       : SI-KJ-24-002
                                7. Menghadapi pertarungan terakhir.
                                8. Menemukan planet baru dan mendarat atau gagal dan mengalami game over.
 
-4. Cara Bermain             =  1. Jalankan program Main.java.
+4. Diagram Alur
+   (Visual Text)            =  S1: Bumi Hancur
+                              ├─ A → S2: Serangan Alien
+                              ├─ B → S2
+                              └─ C → S2
+
+                              S2: Serangan Alien
+                              ├─ A → S3: Kapal Alien
+                              ├─ B → S3
+                              └─ C → S3
+
+                              S3: Kapal Alien
+                              ├─ A → S4: Hujan Asteroid
+                              ├─ B → S4
+                              └─ C → S4
+
+                              S4: Hujan Asteroid
+                              ├─ A → S5: Lubang Hitam
+                              ├─ B → S5
+                              └─ C → S5
+
+                              S5: Lubang Hitam
+                              ├─ A → S6: Planet Baru
+                              ├─ B → S6
+                              └─ C → S6
+
+                              S6: Planet Baru
+                              ├─ A → S7: Ending
+                              ├─ B → S7
+                              └─ C → S7
+                               
+5. Refleksi                 =  Saat mengerjakan tugas ini, saya jadi lebih paham bagaimana membuat
+                               program Java dengan konsep OOP. Saya juga belajar mengatur alur cerita
+                               dan membuat game yang punya logika pilihan dan konsekuensi.
+                               Lumayan seru dan menantang karena harus mikir alur dan efek dari tiap pilihan.
+
+6. Sumber Rujukan           =  1. Dokumentasi resmi Java (https://docs.oracle.com/javase/)
+                               2. Tutorial Pemrograman Java Dasar dari W3Schools (https://www.w3schools.com/java/)
+                               3. StackOverflow untuk solusi error yang muncul saat pengembangan
+                               4. Bantuan dari ChatGPT untuk merapihkan kode yang efisien                                                         
+
+5. Cara Bermain             =  1. Jalankan program Main.java.
                                2. Masukkan nama, umur, dan gender.
                                3. Setiap scene, baca narasi dan pilih aksi dengan mengetik A, B, atau C.
                                4. Jika kesehatan mencapai 0, permainan berakhir (Game Over).
                                5. Jika berhasil mencapai planet baru, permainan selesai dengan kemenangan.
                                6. Bisa mengetik INFO kapan saja untuk melihat status karakter.
 
-5. Kesimpulan               =  Game ini menggabungkan elemen petualangan berbasis teks dengan sistem
+6. Kesimpulan               =  Game ini menggabungkan elemen petualangan berbasis teks dengan sistem
                                kesehatan, XP, dan pilihan bercabang. Setiap pilihan yang dibuat pemain memiliki dampak
                                langsung terhadap kesehatan dan keberhasilan dalam menemukan planet baru. Pemain diharapkan
                                berpikir strategis dalam memilih keputusan terbaik untuk bertahan hidup di luar angkasa.
