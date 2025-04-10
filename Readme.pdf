@@ -25,35 +25,54 @@ KELAS       : S1SI-KJ-24-002
                                8. Menemukan planet baru dan mendarat atau gagal dan mengalami game over.
 
 4. Diagram Alur
-   (Visual Text)            =  S1: Bumi Hancur
-                              ├─ A → S2: Serangan Alien
-                              ├─ B → S2
-                              └─ C → S2
+   (Visual Text)            =  S1: Bumi Dikuasai Alien
+                               ├─ A → S2: Hampir Tertarik ke Lubang Hitam
+                               ├─ B → S2
+                               └─ C → S2
 
-                              S2: Serangan Alien
-                              ├─ A → S3: Kapal Alien
-                              ├─ B → S3
-                              └─ C → S3
+                               S2: Hampir Tertarik ke Lubang Hitam
+                               ├─ A → S3: Hujan Asteroid
+                               ├─ B → S3
+                               └─ C → S3
 
-                              S3: Kapal Alien
-                              ├─ A → S4: Hujan Asteroid
-                              ├─ B → S4
-                              └─ C → S4
+                               S3: Hujan Asteroid
+                               ├─ A → S4: Kapal Alien
+                               ├─ B → S4
+                               └─ C → S4
 
-                              S4: Hujan Asteroid
-                              ├─ A → S5: Lubang Hitam
-                              ├─ B → S5
-                              └─ C → S5
+                               S4: Kapal Alien
+                               ├─ A → S5: Diserang Alien Jahat
+                               ├─ B → S5
+                               └─ C → S5 
 
-                              S5: Lubang Hitam
-                              ├─ A → S6: Planet Baru
-                              ├─ B → S6
-                              └─ C → S6
+                               S5: Diserang Alien Jahat
+                               ├─ A → S6: Navigasi Bermasalah
+                               ├─ B → S6
+                               └─ C → S6
 
-                              S6: Planet Baru
-                              ├─ A → S7: Ending
-                              ├─ B → S7
-                              └─ C → S7
+                               S6: Navigasi Bermasalah
+                               ├─ A → S7: Sinyal Misterius
+                               ├─ B → S7
+                               └─ C → S7
+
+                               S7: Sinyal Misterius
+                               ├─ A → S8: Persediaan Menipis
+                               ├─ B → S8
+                               └─ C → S8
+
+                               S8: Persediaan Menipis
+                               ├─ A → S9: Planet Berbahaya
+                               ├─ B → S9
+                               └─ C → S9
+
+                               S9: Planet Berbahaya
+                               ├─ A → S10: Planet Baru (Akhir)
+                               ├─ B → S10
+                               └─ C → S10
+
+                               S10: Planet Baru (Akhir)
+                               └─ END
+
                                
 5. Refleksi                 =  Saat mengerjakan tugas ini, saya jadi lebih paham bagaimana membuat
                                program Java dengan konsep OOP. Saya juga belajar mengatur alur cerita
