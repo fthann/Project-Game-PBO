@@ -1,4 +1,7 @@
 // Story.java
+
+// Mengatur jalannya cerita secara berurutan.
+
 import java.util.Scanner;
 
 public class Story {

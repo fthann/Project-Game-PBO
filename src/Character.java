@@ -1,4 +1,6 @@
 // Character.java
+
+// Menyimpan dan mengelola data karakter pemain.
 public class Character {
     private String name;
     private int age;
@@ -20,9 +22,13 @@ public class Character {
         this.health -= damage;
     }
 
+    // Fungsi untuk mengurangi kesehatan karakter.
+
     public void addXP(int additionalXP) {
         this.XP += additionalXP;
     }
+
+    
 
     public String getName() {
         return name;
