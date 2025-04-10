@@ -17,12 +17,14 @@ KELAS       : S1SI-KJ-24-002
 3. Alur Permainan
    (Flowchart Singkat)      =  1. Pemain memasukkan nama, umur, dan gender.
                                2. Mulai di Bumi yang hancur, memilih bagaimana melarikan diri.
-                               3. Menghadapi serangan alien pertama.
-                               4. Menghadapi hujan asteroid.
-                               5. Terjebak dalam gravitasi lubang hitam.
-                               6. Menemukan kapal alien, memutuskan interaksi.
-                               7. Menghadapi pertarungan terakhir.
-                               8. Menemukan planet baru dan mendarat atau gagal dan mengalami game over.
+                               3. Hampir tertarik ke lubang hitam.
+                               4. Menghindari hujan asteroid.
+                               5. Menemukan kapal alien, memutuskan interaksi.
+                               6. Diserang alien jahat dan bertahan.
+                               7. Navigasi sistem bermasalah.
+                               8. Menangkap sinyal misterius dari luar angkasa.
+                               9. Persediaan menipis, mencari solusi.
+                               10. Menemukan planet baru dan mendarat, atau gagal dan mengalami game over.
 
 4. Diagram Alur
    (Visual Text)            =  S1: Bumi Dikuasai Alien
