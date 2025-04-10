@@ -1,6 +1,7 @@
 // Scene.java
 
 // Mewakili satu adegan dalam game dan pilihan-pilihan pemain.
+
 public class Scene {
     private String description;
     private String choiceA, choiceB, choiceC;

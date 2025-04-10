@@ -1,6 +1,7 @@
 // Character.java
 
 // Menyimpan dan mengelola data karakter pemain.
+
 public class Character {
     private String name;
     private int age;

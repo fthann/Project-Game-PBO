@@ -1,4 +1,7 @@
 // Main.java
+
+// Tempat utama untuk menjalankan program.
+
 import java.util.Scanner;
 
 public class Main {
